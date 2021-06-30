@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Geo-AR/static/css/main.9d28743f.chunk.css",
+    "main.js": "/Geo-AR/static/js/main.b4c762b5.chunk.js",
+    "main.js.map": "/Geo-AR/static/js/main.b4c762b5.chunk.js.map",
+    "runtime-main.js": "/Geo-AR/static/js/runtime-main.d7d4aa1f.js",
+    "runtime-main.js.map": "/Geo-AR/static/js/runtime-main.d7d4aa1f.js.map",
+    "static/css/2.a178c278.chunk.css": "/Geo-AR/static/css/2.a178c278.chunk.css",
+    "static/js/2.dbf18b54.chunk.js": "/Geo-AR/static/js/2.dbf18b54.chunk.js",
+    "static/js/2.dbf18b54.chunk.js.map": "/Geo-AR/static/js/2.dbf18b54.chunk.js.map",
+    "static/js/3.7e2f3a5b.chunk.js": "/Geo-AR/static/js/3.7e2f3a5b.chunk.js",
+    "static/js/3.7e2f3a5b.chunk.js.map": "/Geo-AR/static/js/3.7e2f3a5b.chunk.js.map",
+    "index.html": "/Geo-AR/index.html",
+    "static/css/2.a178c278.chunk.css.map": "/Geo-AR/static/css/2.a178c278.chunk.css.map",
+    "static/css/main.9d28743f.chunk.css.map": "/Geo-AR/static/css/main.9d28743f.chunk.css.map",
+    "static/js/2.dbf18b54.chunk.js.LICENSE.txt": "/Geo-AR/static/js/2.dbf18b54.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/Geo-AR/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7d4aa1f.js",
+    "static/css/2.a178c278.chunk.css",
+    "static/js/2.dbf18b54.chunk.js",
+    "static/css/main.9d28743f.chunk.css",
+    "static/js/main.b4c762b5.chunk.js"
+  ]
+}
